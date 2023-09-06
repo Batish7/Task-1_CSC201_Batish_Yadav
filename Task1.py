@@ -1,3 +1,7 @@
+print("Student Name: Batish Yadav \nStudent Number:1148502 \n")
+
+
+
 import os
 
 class InventoryManagementSystem:
